@@ -9,7 +9,7 @@ import (
 )
 
 func Login(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
-	fmt.Fprint(w, "Login Route\n")
+	fmt.Fprint(w, "User Login Route\n")
 }
 
 func Register(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
