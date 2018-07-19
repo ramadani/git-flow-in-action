@@ -1,2 +1,3 @@
-# gitflow-in-actions
-Git Flow in Actions
+# gitflow-in-action
+
+Git Flow in Action
